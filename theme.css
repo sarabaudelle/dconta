@@ -3180,7 +3180,7 @@ input[type="button"].btn-block {
   flex-basis: 100%;
   flex-grow: 1;
   align-items: center;
-  border-bottom: border-top: 1px solid #EAEDF2 !important;}
+  border-bottom: 1px solid #EAEDF2 !important;}
 
 .navbar-toggler {
   padding: 0 0;
