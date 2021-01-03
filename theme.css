@@ -7933,7 +7933,8 @@ footer {
 @media (max-width: 1199.98px) {
   .navbar-expand-lg .navbar-nav .nav-link {
     padding-left: 0.5rem;
-    padding-right: 0.5rem; } }
+    padding-right: 0.5rem;
+  } }
 
 @media (min-width: 1200px) {
   .navbar-nav > .nav-item {
