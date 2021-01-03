@@ -3179,8 +3179,7 @@ input[type="button"].btn-block {
 .navbar-collapse {
   flex-basis: 100%;
   flex-grow: 1;
-  align-items: center;
-  border-bottom: 1px solid #EAEDF2 !important;}
+  align-items: center;}
 
 .navbar-toggler {
   padding: 0 0;
